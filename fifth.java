@@ -4,7 +4,7 @@ import java.util.*;
         Scanner sc = new Scanner(System.in);
         System.out.println("hello");
         System.out.print("Enter the number of rows: ");
-        int n = sc.nextInt();
+        int n =sc.nextInt();
         int a=0;
         int b=1;
         for (int i = 0; i < n; i++) {
